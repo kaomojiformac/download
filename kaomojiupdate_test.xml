@@ -6,12 +6,12 @@
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 1.9.9</title>
+            <title>Version 1.9.10</title>
             <sparkle:releaseNotesLink>
-        		https://kaomojiformac.github.io/download/1.9.9.html
+        		https://kaomojiformac.github.io/download/1.9.10.html
     		</sparkle:releaseNotesLink>
-            <pubDate>Sun, 10 July 2016 00:32:09 +0000</pubDate>
-            <enclosure url="https://kaomojiformac.github.io/download/Kaomoji_test.zip" sparkle:version="131" sparkle:shortVersionString="1.9.9" length="2181160" type="application/octet-stream" sparkle:dsaSignature="MCwCFFvyMkScbGxM7z7ntY85ojyLNvNbAhRsd65ro2hI3TOAhbwuuDNq/ASZgA=="/>
+            <pubDate>Sun, 10 July 2016 00:39:23 +0000</pubDate>
+            <enclosure url="https://kaomojiformac.github.io/download/Kaomoji_test.zip" sparkle:version="132" sparkle:shortVersionString="1.9.10" length="2181161" type="application/octet-stream" sparkle:dsaSignature="MCwCFDAFsDk5JNZabgHoxDRoCYWDeRI+AhRcL01d6WKG8lJ+aul7E29oTIyyUQ=="/>
          </item>
    </channel>
 </rss>
